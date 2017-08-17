@@ -1,0 +1,2 @@
+
+"caffe_run2/caffe_tree4.exe" train --solver=proto/hierarchical/solver_MobileNet.prototxt --gpu=all --snapshot=proto/hierarchical/snapshot/MobileNet_h_iter_450000.solverstate --log_name=MobileNet_h --log_dirs=proto/hierarchical/snapshot/log
